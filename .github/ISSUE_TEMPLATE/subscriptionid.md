@@ -7,10 +7,7 @@ assignees: ''
 
 ---
 
-Application Rules
-
-Description
-
-Network Rules
-
-Description
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
